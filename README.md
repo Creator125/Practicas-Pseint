@@ -1,0 +1,1 @@
+Estas son practicas de Pseint hechas con el objetivo de aprender la lógica de progmación y estar preparado en la materia.
